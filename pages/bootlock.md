@@ -1,4 +1,4 @@
-# Bootlock
+# Sleep bootlock
 
 When the lid is closed or the system is idle for a long time, Linux distributions tend to sleep to S4(Hibernate). On a Chromebook this triggers an NVRAM reset and forces the Chromebook to boot into an operating system with an officially signed kernel(only ChromeOS has one). It is not possible to re-enable USB and unsigned kernel booting without booting into ChromeOS(Eupnea cannot be booted without those flags).
 

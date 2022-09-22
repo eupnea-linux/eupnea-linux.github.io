@@ -1,15 +1,13 @@
 **Instructions**
   
   - [‼️**SETUP**‼️](/)
-  - [Supported devices](/devices)
-  - [Crostini](/crostini)
+  - [Supported devices](/pages/devices.md)
+  - [Crostini](/pages/crostini.md)
 
 📖 **Docs**
 
-  - [Linux distros](/distros)
-  - [Depthcharge](/depthcharge)
-  - [Sleep and "bootlock"](/bootlock)
-  - [Building the kernel](/kernel)
+  - [Sleep bootlock](/pages/bootlock.md)
+  - [Depthcharge](/pages/depthcharge.md)
 
 🌐 **External docs**
 
@@ -17,5 +15,10 @@
   - [Depthcharge](https://libreboot.org/docs/depthcharge/)
   - [Linux on pre-coreboot Chromebooks](https://github.com/nh2/chrubuntu-anyos)  
 
+📖 **Developer docs**
+
+  - [1. Build script](/dev-pages/build-script.md)
+  - [Linux distros](/dev-pages/distros.md)
+  - [Building the kernel](/dev-pages/kernel.md)
 
 **[Source code](https://github.com/eupnea-linux/eupnea)**  

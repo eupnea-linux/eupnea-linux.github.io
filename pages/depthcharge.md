@@ -1,6 +1,6 @@
 # Depthcharge
 
-Depthcharge is a U-boot based bootloader for Chromebooks. Depthcharge is not a BIOS, nor is it ever meant to be accessed by the end user. As a result, Depthcharge is basically an embedded-systems bootloader.
+Depthcharge is a [U-boot](https://www.denx.de/wiki/U-Boot) based bootloader for Chromebooks. Depthcharge is not a BIOS, nor is it ever meant to be accessed by the end user. As a result, Depthcharge is basically an embedded-systems bootloader.
 
 * No `initramfs` support
     * Makes the Linux boot flow much simpler
