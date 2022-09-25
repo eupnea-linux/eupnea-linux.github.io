@@ -12,6 +12,7 @@ Due to licensing restraints, Eupnea cannot be distributed as an iso. Instead, it
 * Developer mode enabled on your chromebook([How to enable developer mode](https://www.androidauthority.com/how-to-enable-developer-mode-on-a-chromebook-906688/))
 * A USB-stick or SD-card with 12GB of storage
 * IF not using direct write: 10GB of free space on the "builder" device
+* Python 3.10 is required for running the `build.py` script
 
 ## Instructions:
 
